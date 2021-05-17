@@ -6,6 +6,6 @@
 
 ## Folders
 
-* [Main Folder](https://github.com/furkannzmnn/Java2DGame/blob/main/Game2D/console/Main.java) - The Main Folder
-* [Game Settings](https://github.com/furkannzmnn/Java2DGame/blob/main/Game2D/console/GamePlay.java) -GamePlayer
-* [Map](https://github.com/furkannzmnn/Java2DGame/blob/main/Game2D/console/MapGenerator.java) -Map Generator
+* [Main Folder](https://github.com/TarikKaanKoc/Game.2D/blob/main/Game2D/src/Console/Main.java) - The Main Folder
+* [Game Settings](https://github.com/TarikKaanKoc/Game.2D/blob/main/Game2D/src/Console/GamePlay.java) -The GamePlayer Folder
+* [Map](https://github.com/TarikKaanKoc/Game.2D/blob/main/Game2D/src/Console/MapGenerator.java) -The Map Generator Folder
